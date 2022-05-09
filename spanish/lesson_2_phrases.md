@@ -16,5 +16,6 @@ de nada - you are welcome
 mucho gusto - nice to meet you
 
 buenos dias - good morning
+buenos tardes - good afternoon
 buenos noches - good night
 buenas noches - good evening

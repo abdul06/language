@@ -1,14 +1,16 @@
 yo - I
 yo soy - I am
 tu - you
+él - he 
 ella - her
-elle - him
 
 el, la - the
 
-es, eres - is
-
+es - is
+eres - are
 un, una - a
+y - and
+con - with
 
 mujar - women
 hombre - man
@@ -29,3 +31,5 @@ agua - water
 leche - milk
 manzano - apple
 pan - bread
+
+bano - bathroom
